@@ -9,8 +9,9 @@ This was a second-year university group project for the SWEN225 (Software Design
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/1b0ecff2-27d5-4811-9bb8-3a428281e91a">
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/641a0447-0e75-4442-b18f-7ac7c7c035ba">
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/4d1cdd6e-4759-4f81-a28f-05d259e11145">
-- <img width="555" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/fd4219a1-0ee2-41ba-b9d9-709321389088">
-- <img width="555" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/89b775c1-9d61-48e3-bd7a-bb0574a0baef">
+- <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/fd4219a1-0ee2-41ba-b9d9-709321389088">
+- <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/89b775c1-9d61-48e3-bd7a-bb0574a0baef">
+
 
 ## Language and Tools Used 
 
