@@ -1,4 +1,4 @@
-<img width="555" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/e0b72a63-9777-411a-9a1d-e3045a7eeb38"># Larry-Croft-Adventures
+# Larry-Croft-Adventures
 
 ## Description 
 
