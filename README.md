@@ -2,7 +2,7 @@
 
 ## Description 
 
-This was a second-year university group project for the SWEN225 (Software Design) course. In collaboration with 5 other members
+This was a second-year university group project for the SWEN225 (Software Design) course. In collaboration with 5 other members where we created a Java recreation of the 1989 Atari game Chips Challenge, we then added our twist to it. The project aimed to introduce us to modular design programming, dividing the game into 5 sections App, domain, Persistancy, Recoder, Renderer, and Testing. I was responsible for implementing the recorder function, allowing for the ability to record a game to a JSON file and then replay the game from a JSON file. 
 
 ## Screenshots of the Application 
 
@@ -10,10 +10,10 @@ This was a second-year university group project for the SWEN225 (Software Design
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/641a0447-0e75-4442-b18f-7ac7c7c035ba">
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/4d1cdd6e-4759-4f81-a28f-05d259e11145">
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/fd4219a1-0ee2-41ba-b9d9-709321389088">
-- <img width="300" alt="image" src="https://github.com/neerajpatel1234/Larry-Croft-Adventures/assets/114114241/89b775c1-9d61-48e3-bd7a-bb0574a0baef">
 
 
 ## Language and Tools Used 
 
 - Java (AZUL 17 JDK)
+- Java Swing Libary 
 - IntelliJ IDE
