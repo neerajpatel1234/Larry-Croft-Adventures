@@ -6,7 +6,7 @@ This was a second-year university group project for the SWEN225 (Software Design
 
 The project aimed to introduce us to modular design programming, dividing the game into 5 sections App, domain, Persistancy, Recoder, Renderer, and Testing. I was responsible for implementing the recorder function, allowing for the ability to record a game to a JSON file and then replay the game from a JSON file. 
 
-Furthermore, this collaborative coding adventure not only challenged my technical skills but also aided in my ability to effectively work in a team environment. Working with others in the optimisation process, I gained a valuable understanding of different approaches and techniques, through  continuous incremental improvements. As a result, we were able to construct a robust game that not only ensured the safety of modular connections. This experience emphasised the importance of communication in achieving collective goals. 
+Furthermore, this collaborative coding adventure not only challenged my technical skills but also aided in furthering my ability to effectively work in a team environment. Working with others in the optimisation process, I gained a valuable understanding of different approaches and techniques, through  continuous incremental improvements. As a result, we were able to construct a robust game that not only ensured the safety of modular connections. This experience emphasised the importance of communication in achieving collective goals. 
 
 ## Screenshots of the Application 
 
